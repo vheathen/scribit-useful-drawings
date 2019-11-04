@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 1024 1024"
+   version="1.1"
+   id="svg6939">
+  <g id="m1">
+   <path d="M 51,1023 h -50 v -50" style="fill:none;stroke:black;stroke-miterlimit:10;" />
+  </g>
+  <g id="m2">
+    <path d="M 1,51 v -50 h 50" style="fill:none;stroke:black;stroke-miterlimit:10;" />
+   </g>
+  <g id="m3">
+   <path d="m 973,1 h 50 v 50" style="fill:none;stroke:black;stroke-miterlimit:10;" />
+  </g>
+  <g id="m4">
+   <path d="m 1023,973 v 50 h -50" style="fill:none;stroke:black;stroke-miterlimit:10;" />
+  </g>
+</svg>
